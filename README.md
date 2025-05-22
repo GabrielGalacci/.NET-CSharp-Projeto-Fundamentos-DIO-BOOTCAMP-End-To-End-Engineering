@@ -10,12 +10,12 @@
 ```mermaid
 classDiagram
     class Estacionamento {
-        double precoInicial
-        double precoPorHora
-        List~String~ veiculos
+        - decimal precoInicial
+        - decimal precoPorHora
+        - List~String~ veiculos
 
-        void AdicionarVeiculo()
-        void ListarVeiculos()
-        void RemoverVeiculo()
+        + void AdicionarVeiculo()
+        + void ListarVeiculos()
+        + void RemoverVeiculo()
     }
 ```
