@@ -1,0 +1,10 @@
+Criar um Sistema para um Estacionamento
+
+Regras:
+- Entrada de Veículos - Entrada possui valor
+- Carro Permanece por x horas - Cada hora possui um Valor Adicional
+- Informação do Carro Necessária - Placa do Carro (Possibilidade Validar Placa)
+- Ter uma Listagem de Veículos Estacionado
+- Saída do Veículo - Retira do Sistema, Adiciona a quantidade de horas, e faz o cálculo total da Estadia.
+
+- Opção para Encerramento do Sistema.
